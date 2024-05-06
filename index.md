@@ -7,3 +7,7 @@
 ```R
 average_cases = open.cases/num.of.lsp
 ```
+
+- [x] Complete task 1 
+- [x] Complete task 2 
+- [ ] Complete task 3
